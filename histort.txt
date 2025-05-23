@@ -1,0 +1,91 @@
+    1  su
+    2  su
+    3  su
+    4  sudo su -
+    5  su -
+    6  [200~dfgsdrfg~
+    7  sudo su -
+    8  su
+    9  d
+   10  sudo apt-get install git
+   11  git
+   12  git 
+   13  git
+   14  git config --global user.email 'iamsoaloneqaq
+@gmail.com"
+
+
+
+   15  git config --global user.email "iamsoaloneqaq@gmail.com"
+   16  git config --list
+   17  sudo apt update
+   18  mkdir git_test
+   19  cd git_test/
+   20  sudo apt-get install -y git
+   21  git config --global user.email "iamsoaloneqaq@gmail.com"
+   22  git config --global user.name "ccodaa"
+   23  git config --global user.name "cccodaa"
+   24  git config --list
+   25  touch test.txt
+   26  ls
+   27  git status
+   28  git init
+   29  git status
+   30  git add test.txt
+   31  git status
+   32  git rm --cached test.txt tm 'test.txt'
+   33  git rm --cached test.txt rm 'test.txt'
+   34  git status
+   35  git rm --cached test.txt
+   36  git status
+   37  git add test.txt
+   38  git status
+   39  git commit -m "firsttest"
+   40  git log
+   41  git diff
+   42  sudo apt install -y vim 
+   43  git status
+   44  vim test.txt
+   45  git add test.txt 
+   46  git status
+   47  git diff HEAD
+   48  ssh-keygen 
+   49  ls
+   50  cd ../.ssh
+   51  ls
+   52  cat id_rsa.pub
+   53  git remote add shh_github https://github.com/Muchstronger/linux_test.git
+   54  cd ../git_test/
+   55  git remote add shh_github git@github.com:Muchstronger/linux_test.git
+   56  git config --list
+   57* 
+   58  ls
+   59  ls -a
+   60  history
+   61  git remote add ssh_gith git@github.com:Muchstronger/linux_test.git
+   62* 
+   63  git remote add ssh_github git@github.com:Muchstronger/linux_test.git
+   64  git push -f ssh_github master:main
+   65  git clone git@github.com:Muchstronger/linux_test.git
+   66  ls
+   67  cd ssh_linux_test/
+   68  cd linux_test/
+   69  ls
+   70  cd ../
+   71  mkdir test2
+   72  cd test2
+   73  git pull git@github.com:Muchstronger/linux_test.git
+   74  ls
+   75  git init
+   76  git pull git@github.com:Muchstronger/linux_test.git
+   77  ls
+   78  cd ../
+   79  mkdir wk1
+   80  cd wk1
+   81  cd ../
+   82  mkdir work
+   83  cd work
+   84  vim text.txt
+   85  vim histort.txt
+   86  history -> histort.txt 
+   87  history >> histort.txt 
